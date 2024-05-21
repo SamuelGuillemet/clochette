@@ -20,7 +20,7 @@ pyhumps = "^3.8.0"
 python-jose = "^3.3.0"
 alembic = "^1.13.1"
 passlib = { extras = ["bcrypt"], version = "^1.7.4" }
-requests = "^2.31.0"
+requests = "^2.32.0"
 types-requests = "^2.31.0.20240311"
 asyncpg = "^0.29.0"
 alembic-autogenerate-enums = "^0.1.2"
